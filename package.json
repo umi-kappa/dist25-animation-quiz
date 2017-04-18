@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "retyped-gsap-tsd-ambient": "0.0.0-0",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.2.2",
+    "typings": "^2.1.1",
+    "webpack": "^2.4.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
